@@ -78,7 +78,7 @@ return [
 	|
 	*/
 
-	'key' => env('APP_KEY', 'SomeRandomString'),
+	'key' => env('APP_KEY', '&cHG4@I4vmca&Z9mZW8LX4U#Nx@Hu6Xv'),
 
 	'cipher' => MCRYPT_RIJNDAEL_128,
 
